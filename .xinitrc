@@ -1,0 +1,2 @@
+xcompmgr &
+exec awesome
