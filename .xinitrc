@@ -1,2 +1,3 @@
 xcompmgr &
+dropboxd &
 exec awesome
